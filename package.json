@@ -1,5 +1,5 @@
 {
-  "name": "scope",
+  "name": "hapi-scope",
   "version": "1.0.0",
   "description": "Library to print an overview of hapi routes",
   "main": "index.js",
