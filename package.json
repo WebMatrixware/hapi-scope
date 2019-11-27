@@ -8,6 +8,10 @@
   },
   "author": "Ben Lanning <blanning@all-mode.com>",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WebMatrixware/hapi-scope"
+  },
   "dependencies": {
     "@hapi/basic": "^5.1.1",
     "chalk": "^3.0.0",
