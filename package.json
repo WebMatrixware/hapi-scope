@@ -1,0 +1,26 @@
+{
+  "name": "scope",
+  "version": "1.0.0",
+  "description": "Library to print an overview of hapi routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/@hapi/lab/bin/lab"
+  },
+  "author": "Ben Lanning <blanning@all-mode.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/basic": "^5.1.1",
+    "chalk": "^3.0.0",
+    "columnify": "^1.5.4"
+  },
+  "devDependencies": {
+    "@hapi/code": "^7.0.0",
+    "@hapi/eslint-config-hapi": "^12.3.0",
+    "@hapi/eslint-plugin-hapi": "^4.3.4",
+    "@hapi/hapi": "^18.4.0",
+    "@hapi/lab": "^21.0.0",
+    "babel-eslint": "^10.0.3",
+    "sinon": "^7.5.0",
+    "test-console": "^1.1.0"
+  }
+}
