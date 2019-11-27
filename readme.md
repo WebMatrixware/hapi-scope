@@ -44,7 +44,7 @@ init();
 ```
 
 ### Options
-Passing an empty object to Scope on initialization will cause it to use it's defaults. You can also set some or all of them manually when initializing Scope.
+Passing an empty object to Scope on initialization will cause it to use it's defaults. You can also set some or all of them manually when initializing Scope. These are all booloean (true|false) flags to either show or hide the specified aspect of a routes configuration.
 
 |Option|Default|Description|
 |------|-------|-----------|
