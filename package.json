@@ -25,6 +25,7 @@
     "@hapi/lab": "^21.0.0",
     "babel-eslint": "^10.0.3",
     "codacy-coverage": "^3.4.0",
+    "codecov": "^3.6.1",
     "sinon": "^7.5.0",
     "test-console": "^1.1.0"
   }
