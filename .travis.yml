@@ -2,7 +2,9 @@ language: node_js
 node_js:
   - 10
 install:
-  - npm install --save-dev codecov istanbul
+#  - npm install --save-dev codecov istanbul
+  - npm install --save-dev codecov
 script:
-  - istanbul cover ./node_modules/@hapi/lab/bin/lab --report lcovonly -l
+#  - istanbul cover ./node_modules/@hapi/lab/bin/lab --report lcovonly -l
+  - node ./node_modules/@hapi/lab/bin/lab
   - codecov
