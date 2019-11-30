@@ -4,5 +4,5 @@ node_js:
 install:
   - npm install -g codecov istanbul
 script:
-  - istanbul cover ./node_modules/@hapi/lab/bin/lab --report lcovonly
+  - istanbul cover ./node_modules/@hapi/lab/bin/lab --report lcovonly -l
   - codecov
