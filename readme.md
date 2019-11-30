@@ -10,7 +10,7 @@ Scope is designed to be a lightweight utility to publish basic route information
 
 Scope is intended for hapi 17.0 and up and currently tested on hapi 18.4.0.
 
-Scope is inspired by and [blipp](https://github.com/danielb2/blipp), it mostly differs in added simplicity of the codebase and a few features that I wanted and decided would be easier to just write than add to blipp.
+Scope is inspired by [blipp](https://github.com/danielb2/blipp), it mostly differs in added simplicity of the codebase and a few features that I wanted and decided would be easier to just write than add to blipp.
 
 Scope uses [columnify](https://github.com/timoxley/columnify) on the back end to line up the data, handle lines that are too long, and support wrapping long fields.
 
