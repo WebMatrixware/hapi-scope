@@ -1,8 +1,10 @@
 # Scope
 
 
-![GitHub package.json version](https://img.shields.io/github/package-json/v/WebMatrixware/hapi-scope)
-[![GitHub issues](https://img.shields.io/github/issues/WebMatrixware/hapi-scope)](https://github.com/WebMatrixware/hapi-scope/issues)
+![npm package.json version](https://badgen.net/npm/v/hapi-scope?label=version&icon=github)
+![GitHub issues](https://badgen.net/github/open-issues/WebMatrixware/hapi-scope?icon=github)
+![TravisCI build](https://badgen.net/travis/WebMatrixware/hapi-scope?label=build&icon=travis)
+![CodeCov Coverage](https://badgen.net/codecov/c/github/WebMatrixware/hapi-scope?icon=codecov)
 
 Scope is designed to be a lightweight utility to publish basic route information to the console upon starting a [hapi](https://hapi.dev/) server instance.
 
