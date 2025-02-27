@@ -13,7 +13,7 @@
     "url": "https://github.com/WebMatrixware/hapi-scope"
   },
   "dependencies": {
-    "@hapi/basic": "^5.1.1",
+    "@hapi/basic": "^6.0.0",
     "chalk": "^3.0.0",
     "columnify": "^1.5.4"
   },
